@@ -1,2 +1,2 @@
 # track-Ev-station-
-it is use to monitor the station an d show the avilavlity of Ev slots 
+it is use to monitor the station and show the avilavlity of Ev slots 
